@@ -558,6 +558,16 @@
 	--button-background:#9146ff;
 }
 
+/* Twitter (archiving soon, see 'X') */
+.button.button-twit {
+  color: #ffffff;
+  background-color: #1da1f2;
+}
+.button.button-twit:hover,
+.button.button-twit:focus {
+  filter: brightness(90%);
+}
+
 /* Unsplash */
 .button-unsplash {
 	--button-text:#000000;
